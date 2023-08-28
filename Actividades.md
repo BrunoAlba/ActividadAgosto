@@ -1,7 +1,8 @@
 # ActividadAgosto
 Notas: 
--Usar Draw.io
-
+- Usar Draw.io
+- tsc "nombre".ts - Lo guarda en .js
+- ts-node "nombre".js - Lo ejecuta
 
 "𝙰𝚌𝚝𝚒𝚟𝚒𝚍𝚊𝚍 𝟷"
 
