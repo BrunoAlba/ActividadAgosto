@@ -1,3 +1,5 @@
+//Actividad hecha en clases. Usaba de ejemplo-guía
+
 abstract class Potenciable {
     protected plusVida: number;
     protected plusAtaque: number;
