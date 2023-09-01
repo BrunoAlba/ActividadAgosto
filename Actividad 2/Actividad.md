@@ -29,7 +29,8 @@ Notas:
 
 "Parte 3 - Preguntas Teóricas"
 
-• Responder las preguntas en un TXT y subirlo a GitHub• ¿Qué pasa cuando se corre el comando “tsc”?
+• Responder las preguntas en un TXT y subirlo a GitHub
+• ¿Qué pasa cuando se corre el comando “tsc”?
 • ¿Cómo está organizada una clase?
 • ¿Es correcto que un método auxiliar de una clase sea público? ¿Por qué?
 • Enumerar las características de una interfaz.
